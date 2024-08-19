@@ -10,7 +10,7 @@ PUNCH_OUT_STYLE = 'magenta'
 npcWin = playerWin = allPlay = 0
 
 # 1:石头, 2:剪刀, 3:布
-def judge(content: dict) -> str or None:
+def judge(content: dict) -> str or None: # type: ignore
     """
     通过提供的字典, 来判断谁输。
     1:石头, 2:剪刀, 3:布
