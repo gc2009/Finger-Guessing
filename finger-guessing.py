@@ -1,5 +1,5 @@
 """
-@author: GaoChang
+@author: gc2009
 """
 from rich.console import Console
 from random import choice
