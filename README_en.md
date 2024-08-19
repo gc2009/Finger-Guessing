@@ -2,6 +2,7 @@
 ## A game with Python
 - Author: gc2009
 - Use language: Python
+- This game is only available in Chinese
 
 ## Install
 1. You should install Python3 and pip3
